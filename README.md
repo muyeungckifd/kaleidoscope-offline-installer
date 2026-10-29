@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Diff+Tool-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Kaleidoscope Free Installer** — Kaleidoscope is a premium macOS diff and merge tool known for its beautiful interface and accurate three-way merging. Works without internet access, no account required. Full offline installation.
+**💻 Kaleidoscope Free Installer** — Kaleidoscope is a macOS file comparison and merge tool with a beautiful interface. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Kaleidoscope
 
-Kaleidoscope is a premium macOS diff and merge tool known for its beautiful interface and accurate three-way merging. Compare text files, folders, and images with pixel-level visual diffing for image comparison. Kaleidoscope integrates deeply with Xcode, Git, and other developer tools, making it the go-to choice for macOS developers who need precise and visually clear code comparison.
+Kaleidoscope is a macOS file comparison and merge tool with a beautiful interface. It handles text, images, and folders with precision, integrates deeply with Git and other version control systems, and provides a powerful three-way merge for resolving conflicts.
 
 ---
 
 ## ❌ Problem: Kaleidoscope is hard to access
 
-- **macOS Only** — No Windows or Linux version
-- **High Price** — Premium pricing among diff tools
-- **Git Integration Setup** — Requires terminal configuration to use as default Git tool
-- **Image Diffing** — Image comparison feature limited to visual changes, not data analysis
+- **macOS Only** — No Windows or Linux version available
+- **High Price** — Most expensive diff tool on the market
+- **Subscription Model** — Moved to subscription pricing in version 3
+- **Overkill for Simple Diffs** — Most use cases covered by free tools like Meld or FileMerge
 
 ---
 
@@ -121,7 +121,7 @@ Kaleidoscope is a premium macOS diff and merge tool known for its beautiful inte
 
 ---
 
-**Kaleidoscope Free Installer** — Kaleidoscope is a premium macOS diff and merge tool known for its beautiful interface and accurate three-way merging. Install without internet connection today!
+**Kaleidoscope Free Installer** — Kaleidoscope is a macOS file comparison and merge tool with a beautiful interface. Install without internet connection today!
 
 <div align="center">
 
